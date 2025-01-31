@@ -1,3 +1,4 @@
+![](paraware.gif)
 # PARAWare
 we develop quirky lil games!
 
